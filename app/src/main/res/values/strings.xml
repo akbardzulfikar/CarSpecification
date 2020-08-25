@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CarSpecification</string>
+    <string name="car_name">Car Name</string>
+    <string name="detail">Car Detail</string>
+    <string name="dummy_photos">6 Photos</string>
+    <string name="dummy_value">Car Name</string>
+    <string name="stock">7 stock</string>
+    <string name="content_text">text</string>
+    <string name="specification">Specification</string>
+    <string name="overview">Overview</string>
+    <string name="content_specs_display">content_specs</string>
+    <string name="content_specs_size">specs_size</string>
+    <string name="battery">battery</string>
+    <string name="content_specs_battery">specs_battery</string>
+    <string name="car_review">Car Review</string>
+    <string name="my_name">Laksamana Akbar Dzulfikar</string>
+    <string name="buy">buy</string>
+    <string name="my_email">akbardzulfikar09@gmail.com</string>
+    <string name="year">Year</string>
+    <string name="linkedln">Linkedln</string>
+    <string name="linkedlnlink">https://www.linkedin.com/in/laksamana-akbar-d-70bb33150/</string>
+</resources>
